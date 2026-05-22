@@ -67,6 +67,7 @@ browserstackLocal: true # <boolean> (Default false)
   # Entire list of arguments available here -> https://www.browserstack.com/docs/automate/selenium/manage-incoming-connections
 
 source: pytest-browserstack:sample-sdk:v1.0
+accessibility: true
 
 # ===================
 # Debugging features
